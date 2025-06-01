@@ -33,7 +33,7 @@ Want to run locally? Follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/coding-juicer/Spam_Detection.git]
+   git clone https://github.com/coding-juicer/Spam_Detection.git
    cd spam-detection-app
    ```
 
