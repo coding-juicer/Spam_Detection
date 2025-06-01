@@ -28,7 +28,7 @@ A machine learning-powered web application that automatically detects spam messa
 
 ### Quick Start
 **🌐 Want to try it immediately? → [Live Demo](https://spamdetectionweb.streamlit.app/)
-**Want to run locally? Follow these steps:
+Want to run locally? Follow these steps:
 
 1. **Clone the repository**
    ```bash
